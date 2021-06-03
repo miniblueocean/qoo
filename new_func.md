@@ -1,1 +1,1 @@
-new_func
+fix_function
