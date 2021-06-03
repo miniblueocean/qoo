@@ -7,6 +7,8 @@ def sub(x, y):
        raise ValueError
    return x - y 
 
+def add(x, y):
+    return x + y
 
 # fix001
 
