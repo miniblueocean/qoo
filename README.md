@@ -5,8 +5,3 @@ add description
 1
 2
 3
-
-[section2]
-2
-3
-4
